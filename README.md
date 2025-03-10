@@ -24,8 +24,9 @@ I'm a passionate **Web Developer** with a background in **scientific high school
 ---
 
 ### 📌 Projects
-I'm currently working on several projects that I'll be sharing here soon! Stay tuned! 🛠️
-
+<a href="https://github.com/DavidPicazoE/Bingo-Java">
+  <img src="./images/bingo.jpeg" alt="Bingo" width="300"/>
+</a>
 ---
 
 ### 📫 Let's Connect!
