@@ -30,6 +30,11 @@ I'm a passionate **Web Developer** with a background in **scientific high school
 <a href="https://github.com/DavidPicazoE/Conecta4">
   <img src="./images/conecta4.jpeg" alt="Conecta4" width="200"/>
 </a>
+<a href="https://leaguecrafting.com/">
+  <img src="./images/leaguecrafting.png" alt="LeagueCrafting" width="200"/>
+</a>
+
+
 
 
 ---
