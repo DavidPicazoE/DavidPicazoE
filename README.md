@@ -27,7 +27,9 @@ I'm a passionate **Web Developer** with a background in **scientific high school
 <a href="https://github.com/DavidPicazoE/Bingo-Java">
   <img src="./images/bingo.jpeg" alt="Bingo" width="200"/>
 </a>
-
+<a href="https://github.com/DavidPicazoE/Conecta4">
+  <img src="./images/conecta4.jpeg" alt="Conecta4" width="200"/>
+</a>
 ---
 
 ### 📫 Let's Connect!
